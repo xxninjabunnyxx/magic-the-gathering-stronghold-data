@@ -1,0 +1,110 @@
+---
+object: card
+id: 27d838a1-2739-45f7-a856-6202334fa76a
+oracle_id: dade5835-ccaf-45e3-b9a3-46017e0384b3
+multiverse_ids:
+- 5124
+mtgo_id: 10209
+mtgo_foil_id: 10210
+tcgplayer_id: 5339
+cardmarket_id: 9212
+name: Ensnaring Bridge
+lang: en
+released_at: '1998-03-02'
+uri: https://api.scryfall.com/cards/27d838a1-2739-45f7-a856-6202334fa76a
+scryfall_uri: https://scryfall.com/card/sth/133/ensnaring-bridge?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/7/27d838a1-2739-45f7-a856-6202334fa76a.jpg?1562596374
+  normal: https://cards.scryfall.io/normal/front/2/7/27d838a1-2739-45f7-a856-6202334fa76a.jpg?1562596374
+  large: https://cards.scryfall.io/large/front/2/7/27d838a1-2739-45f7-a856-6202334fa76a.jpg?1562596374
+  png: https://cards.scryfall.io/png/front/2/7/27d838a1-2739-45f7-a856-6202334fa76a.png?1562596374
+  art_crop: https://cards.scryfall.io/art_crop/front/2/7/27d838a1-2739-45f7-a856-6202334fa76a.jpg?1562596374
+  border_crop: https://cards.scryfall.io/border_crop/front/2/7/27d838a1-2739-45f7-a856-6202334fa76a.jpg?1562596374
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: Creatures with power greater than the number of cards in your hand can't
+  attack.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5c83396a-d386-4367-926b-571a75b086a3
+set: sth
+set_name: Stronghold
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/5c83396a-d386-4367-926b-571a75b086a3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asth&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sth?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/27d838a1-2739-45f7-a856-6202334fa76a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adade5835-ccaf-45e3-b9a3-46017e0384b3&unique=prints
+collector_number: '133'
+digital: false
+rarity: rare
+flavor_text: |-
+  "I expected a fight, but I didn't expect it from the building itself."
+  —Gerrard
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Pete Venters
+artist_ids:
+- d54c4a1a-c0c5-4834-84db-125d341f3ad8
+illustration_id: 5cfeeb6f-3a62-4818-9b53-5eaff2d0493c
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 4466
+prices:
+  usd: '15.54'
+  usd_foil: 
+  usd_etched: 
+  eur: '15.90'
+  eur_foil: 
+  tix: '4.75'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5124
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ensnaring+Bridge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ensnaring+Bridge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ensnaring+Bridge
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/5339?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ensnaring+Bridge&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/10209?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

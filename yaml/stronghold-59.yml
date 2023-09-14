@@ -1,0 +1,116 @@
+---
+object: card
+id: e35ab62e-d6c6-448c-bbe0-42abe5780adc
+oracle_id: 25c04be3-f2e0-4f45-a1ca-9e75ffffa9b5
+multiverse_ids:
+- 5158
+mtgo_id: 10267
+mtgo_foil_id: 10268
+tcgplayer_id: 5348
+cardmarket_id: 9094
+name: Foul Imp
+lang: en
+released_at: '1998-03-02'
+uri: https://api.scryfall.com/cards/e35ab62e-d6c6-448c-bbe0-42abe5780adc
+scryfall_uri: https://scryfall.com/card/sth/59/foul-imp?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/3/e35ab62e-d6c6-448c-bbe0-42abe5780adc.jpg?1562597827
+  normal: https://cards.scryfall.io/normal/front/e/3/e35ab62e-d6c6-448c-bbe0-42abe5780adc.jpg?1562597827
+  large: https://cards.scryfall.io/large/front/e/3/e35ab62e-d6c6-448c-bbe0-42abe5780adc.jpg?1562597827
+  png: https://cards.scryfall.io/png/front/e/3/e35ab62e-d6c6-448c-bbe0-42abe5780adc.png?1562597827
+  art_crop: https://cards.scryfall.io/art_crop/front/e/3/e35ab62e-d6c6-448c-bbe0-42abe5780adc.jpg?1562597827
+  border_crop: https://cards.scryfall.io/border_crop/front/e/3/e35ab62e-d6c6-448c-bbe0-42abe5780adc.jpg?1562597827
+mana_cost: "{B}{B}"
+cmc: 2.0
+type_line: Creature — Imp
+oracle_text: |-
+  Flying
+  When Foul Imp enters the battlefield, you lose 2 life.
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5c83396a-d386-4367-926b-571a75b086a3
+set: sth
+set_name: Stronghold
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/5c83396a-d386-4367-926b-571a75b086a3
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asth&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sth?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e35ab62e-d6c6-448c-bbe0-42abe5780adc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A25c04be3-f2e0-4f45-a1ca-9e75ffffa9b5&unique=prints
+collector_number: '59'
+digital: false
+rarity: common
+flavor_text: The imp, unaware of its own odor, paused to catch its breath . . . and
+  promptly died.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jim Nelson
+artist_ids:
+- aa9f64d1-29e1-4c82-877e-44c18183f40b
+illustration_id: 85c83223-7cac-4eef-9ee2-28b490e6e473
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23417
+penny_rank: 12420
+prices:
+  usd: '0.07'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5158
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Foul+Imp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Foul+Imp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Foul+Imp
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/5348?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Foul+Imp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/10267?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
